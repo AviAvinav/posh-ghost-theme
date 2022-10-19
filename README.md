@@ -1,6 +1,8 @@
 # Ghost Theme
 
-<img src="ghost.png" />
+<img src="images/ghost.png" />
+
+<img src="images/ghost2.png" />
 
 This is a theme for oh-my-posh that I use if you like it please give it a star.
 
